@@ -1,0 +1,9 @@
+# api
+/api/node_modules
+/api/dist
+
+# front
+/front/node_modules
+
+# OS
+.DS_Store
